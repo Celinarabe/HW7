@@ -1,0 +1,122 @@
+/Users/celinarabe/Projects/Rabe_Celina_HW6/Rabe_Celina_HW6/bin/Debug/netcoreapp2.1/Rabe_Celina_HW6.deps.json
+/Users/celinarabe/Projects/Rabe_Celina_HW6/Rabe_Celina_HW6/bin/Debug/netcoreapp2.1/Rabe_Celina_HW6.runtimeconfig.json
+/Users/celinarabe/Projects/Rabe_Celina_HW6/Rabe_Celina_HW6/bin/Debug/netcoreapp2.1/Rabe_Celina_HW6.runtimeconfig.dev.json
+/Users/celinarabe/Projects/Rabe_Celina_HW6/Rabe_Celina_HW6/bin/Debug/netcoreapp2.1/Rabe_Celina_HW6.dll
+/Users/celinarabe/Projects/Rabe_Celina_HW6/Rabe_Celina_HW6/bin/Debug/netcoreapp2.1/Rabe_Celina_HW6.pdb
+/Users/celinarabe/Projects/Rabe_Celina_HW6/Rabe_Celina_HW6/bin/Debug/netcoreapp2.1/Rabe_Celina_HW6.Views.dll
+/Users/celinarabe/Projects/Rabe_Celina_HW6/Rabe_Celina_HW6/bin/Debug/netcoreapp2.1/Rabe_Celina_HW6.Views.pdb
+/Users/celinarabe/Projects/Rabe_Celina_HW6/Rabe_Celina_HW6/obj/Debug/netcoreapp2.1/Rabe_Celina_HW6.csprojAssemblyReference.cache
+/Users/celinarabe/Projects/Rabe_Celina_HW6/Rabe_Celina_HW6/obj/Debug/netcoreapp2.1/Rabe_Celina_HW6.csproj.CoreCompileInputs.cache
+/Users/celinarabe/Projects/Rabe_Celina_HW6/Rabe_Celina_HW6/obj/Debug/netcoreapp2.1/Rabe_Celina_HW6.RazorAssemblyInfo.cache
+/Users/celinarabe/Projects/Rabe_Celina_HW6/Rabe_Celina_HW6/obj/Debug/netcoreapp2.1/Rabe_Celina_HW6.RazorAssemblyInfo.cs
+/Users/celinarabe/Projects/Rabe_Celina_HW6/Rabe_Celina_HW6/obj/Debug/netcoreapp2.1/Rabe_Celina_HW6.AssemblyInfoInputs.cache
+/Users/celinarabe/Projects/Rabe_Celina_HW6/Rabe_Celina_HW6/obj/Debug/netcoreapp2.1/Rabe_Celina_HW6.AssemblyInfo.cs
+/Users/celinarabe/Projects/Rabe_Celina_HW6/Rabe_Celina_HW6/obj/Debug/netcoreapp2.1/Rabe_Celina_HW6.TagHelpers.input.cache
+/Users/celinarabe/Projects/Rabe_Celina_HW6/Rabe_Celina_HW6/obj/Debug/netcoreapp2.1/Rabe_Celina_HW6.TagHelpers.output.cache
+/Users/celinarabe/Projects/Rabe_Celina_HW6/Rabe_Celina_HW6/obj/Debug/netcoreapp2.1/Rabe_Celina_HW6.RazorCoreGenerate.cache
+/Users/celinarabe/Projects/Rabe_Celina_HW6/Rabe_Celina_HW6/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_Layout.g.cshtml.cs
+/Users/celinarabe/Projects/Rabe_Celina_HW6/Rabe_Celina_HW6/obj/Debug/netcoreapp2.1/Razor/Views/_ViewImports.g.cshtml.cs
+/Users/celinarabe/Projects/Rabe_Celina_HW6/Rabe_Celina_HW6/obj/Debug/netcoreapp2.1/Razor/Views/_ViewStart.g.cshtml.cs
+/Users/celinarabe/Projects/Rabe_Celina_HW6/Rabe_Celina_HW6/obj/Debug/netcoreapp2.1/Rabe_Celina_HW6.RazorTargetAssemblyInfo.cache
+/Users/celinarabe/Projects/Rabe_Celina_HW6/Rabe_Celina_HW6/obj/Debug/netcoreapp2.1/Rabe_Celina_HW6.RazorTargetAssemblyInfo.cs
+/Users/celinarabe/Projects/Rabe_Celina_HW6/Rabe_Celina_HW6/obj/Debug/netcoreapp2.1/Rabe_Celina_HW6.Views.pdb
+/Users/celinarabe/Projects/Rabe_Celina_HW6/Rabe_Celina_HW6/obj/Debug/netcoreapp2.1/Rabe_Celina_HW6.dll
+/Users/celinarabe/Projects/Rabe_Celina_HW6/Rabe_Celina_HW6/obj/Debug/netcoreapp2.1/Rabe_Celina_HW6.pdb
+/Users/celinarabe/Projects/Rabe_Celina_HW6/Rabe_Celina_HW6/obj/Debug/netcoreapp2.1/Rabe_Celina_HW6.csproj.CopyComplete
+/Users/celinarabe/Projects/Rabe_Celina_HW6/Rabe_Celina_HW6/obj/Debug/netcoreapp2.1/Razor/Views/Home/Index.g.cshtml.cs
+/Users/celinarabe/Desktop/Rabe_Celina_HW6/Rabe_Celina_HW6/bin/Debug/netcoreapp2.1/Rabe_Celina_HW6.deps.json
+/Users/celinarabe/Desktop/Rabe_Celina_HW6/Rabe_Celina_HW6/bin/Debug/netcoreapp2.1/Rabe_Celina_HW6.runtimeconfig.json
+/Users/celinarabe/Desktop/Rabe_Celina_HW6/Rabe_Celina_HW6/bin/Debug/netcoreapp2.1/Rabe_Celina_HW6.runtimeconfig.dev.json
+/Users/celinarabe/Desktop/Rabe_Celina_HW6/Rabe_Celina_HW6/bin/Debug/netcoreapp2.1/Rabe_Celina_HW6.dll
+/Users/celinarabe/Desktop/Rabe_Celina_HW6/Rabe_Celina_HW6/bin/Debug/netcoreapp2.1/Rabe_Celina_HW6.pdb
+/Users/celinarabe/Desktop/Rabe_Celina_HW6/Rabe_Celina_HW6/bin/Debug/netcoreapp2.1/Rabe_Celina_HW6.Views.dll
+/Users/celinarabe/Desktop/Rabe_Celina_HW6/Rabe_Celina_HW6/bin/Debug/netcoreapp2.1/Rabe_Celina_HW6.Views.pdb
+/Users/celinarabe/Desktop/Rabe_Celina_HW6/Rabe_Celina_HW6/obj/Debug/netcoreapp2.1/Rabe_Celina_HW6.csprojAssemblyReference.cache
+/Users/celinarabe/Desktop/Rabe_Celina_HW6/Rabe_Celina_HW6/obj/Debug/netcoreapp2.1/Rabe_Celina_HW6.csproj.CoreCompileInputs.cache
+/Users/celinarabe/Desktop/Rabe_Celina_HW6/Rabe_Celina_HW6/obj/Debug/netcoreapp2.1/Rabe_Celina_HW6.RazorAssemblyInfo.cache
+/Users/celinarabe/Desktop/Rabe_Celina_HW6/Rabe_Celina_HW6/obj/Debug/netcoreapp2.1/Rabe_Celina_HW6.RazorAssemblyInfo.cs
+/Users/celinarabe/Desktop/Rabe_Celina_HW6/Rabe_Celina_HW6/obj/Debug/netcoreapp2.1/Rabe_Celina_HW6.AssemblyInfoInputs.cache
+/Users/celinarabe/Desktop/Rabe_Celina_HW6/Rabe_Celina_HW6/obj/Debug/netcoreapp2.1/Rabe_Celina_HW6.AssemblyInfo.cs
+/Users/celinarabe/Desktop/Rabe_Celina_HW6/Rabe_Celina_HW6/obj/Debug/netcoreapp2.1/Rabe_Celina_HW6.TagHelpers.input.cache
+/Users/celinarabe/Desktop/Rabe_Celina_HW6/Rabe_Celina_HW6/obj/Debug/netcoreapp2.1/Rabe_Celina_HW6.TagHelpers.output.cache
+/Users/celinarabe/Desktop/Rabe_Celina_HW6/Rabe_Celina_HW6/obj/Debug/netcoreapp2.1/Rabe_Celina_HW6.RazorCoreGenerate.cache
+/Users/celinarabe/Desktop/Rabe_Celina_HW6/Rabe_Celina_HW6/obj/Debug/netcoreapp2.1/Razor/Views/Home/Index.g.cshtml.cs
+/Users/celinarabe/Desktop/Rabe_Celina_HW6/Rabe_Celina_HW6/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_Layout.g.cshtml.cs
+/Users/celinarabe/Desktop/Rabe_Celina_HW6/Rabe_Celina_HW6/obj/Debug/netcoreapp2.1/Razor/Views/_ViewImports.g.cshtml.cs
+/Users/celinarabe/Desktop/Rabe_Celina_HW6/Rabe_Celina_HW6/obj/Debug/netcoreapp2.1/Razor/Views/_ViewStart.g.cshtml.cs
+/Users/celinarabe/Desktop/Rabe_Celina_HW6/Rabe_Celina_HW6/obj/Debug/netcoreapp2.1/Rabe_Celina_HW6.RazorTargetAssemblyInfo.cache
+/Users/celinarabe/Desktop/Rabe_Celina_HW6/Rabe_Celina_HW6/obj/Debug/netcoreapp2.1/Rabe_Celina_HW6.RazorTargetAssemblyInfo.cs
+/Users/celinarabe/Desktop/Rabe_Celina_HW6/Rabe_Celina_HW6/obj/Debug/netcoreapp2.1/Rabe_Celina_HW6.Views.pdb
+/Users/celinarabe/Desktop/Rabe_Celina_HW6/Rabe_Celina_HW6/obj/Debug/netcoreapp2.1/Rabe_Celina_HW6.dll
+/Users/celinarabe/Desktop/Rabe_Celina_HW6/Rabe_Celina_HW6/obj/Debug/netcoreapp2.1/Rabe_Celina_HW6.pdb
+/Users/celinarabe/Desktop/Rabe_Celina_HW6/Rabe_Celina_HW6/obj/Debug/netcoreapp2.1/Rabe_Celina_HW6.csproj.CopyComplete
+/Users/celinarabe/Desktop/Rabe_Celina_HW6/Rabe_Celina_HW6/obj/Debug/netcoreapp2.1/Razor/Views/OrderDetails/Delete.g.cshtml.cs
+/Users/celinarabe/Desktop/Rabe_Celina_HW6/Rabe_Celina_HW6/obj/Debug/netcoreapp2.1/Razor/Views/OrderDetails/Edit.g.cshtml.cs
+/Users/celinarabe/Desktop/Rabe_Celina_HW6/Rabe_Celina_HW6/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_ValidationScriptsPartial.g.cshtml.cs
+/Users/celinarabe/Desktop/Rabe_Celina_HW6/Rabe_Celina_HW6/obj/Debug/netcoreapp2.1/Razor/Views/Orders/Create.g.cshtml.cs
+/Users/celinarabe/Desktop/Rabe_Celina_HW6/Rabe_Celina_HW6/obj/Debug/netcoreapp2.1/Razor/Views/Orders/Delete.g.cshtml.cs
+/Users/celinarabe/Desktop/Rabe_Celina_HW6/Rabe_Celina_HW6/obj/Debug/netcoreapp2.1/Razor/Views/Orders/Details.g.cshtml.cs
+/Users/celinarabe/Desktop/Rabe_Celina_HW6/Rabe_Celina_HW6/obj/Debug/netcoreapp2.1/Razor/Views/Orders/Edit.g.cshtml.cs
+/Users/celinarabe/Desktop/Rabe_Celina_HW6/Rabe_Celina_HW6/obj/Debug/netcoreapp2.1/Razor/Views/Orders/Index.g.cshtml.cs
+/Users/celinarabe/Desktop/Rabe_Celina_HW6/Rabe_Celina_HW6/obj/Debug/netcoreapp2.1/Razor/Views/Products/Create.g.cshtml.cs
+/Users/celinarabe/Desktop/Rabe_Celina_HW6/Rabe_Celina_HW6/obj/Debug/netcoreapp2.1/Razor/Views/Products/Details.g.cshtml.cs
+/Users/celinarabe/Desktop/Rabe_Celina_HW6/Rabe_Celina_HW6/obj/Debug/netcoreapp2.1/Razor/Views/Products/Edit.g.cshtml.cs
+/Users/celinarabe/Desktop/Rabe_Celina_HW6/Rabe_Celina_HW6/obj/Debug/netcoreapp2.1/Razor/Views/Products/Index.g.cshtml.cs
+/Users/celinarabe/Desktop/Rabe_Celina_HW6/Rabe_Celina_HW6/obj/Debug/netcoreapp2.1/Razor/Views/Suppliers/Create.g.cshtml.cs
+/Users/celinarabe/Desktop/Rabe_Celina_HW6/Rabe_Celina_HW6/obj/Debug/netcoreapp2.1/Razor/Views/Suppliers/Details.g.cshtml.cs
+/Users/celinarabe/Desktop/Rabe_Celina_HW6/Rabe_Celina_HW6/obj/Debug/netcoreapp2.1/Razor/Views/Suppliers/Edit.g.cshtml.cs
+/Users/celinarabe/Desktop/Rabe_Celina_HW6/Rabe_Celina_HW6/obj/Debug/netcoreapp2.1/Razor/Views/Suppliers/Index.g.cshtml.cs
+/Users/celinarabe/Desktop/Rabe_Celina_HW6/Rabe_Celina_HW6/obj/Debug/netcoreapp2.1/Razor/Views/Orders/AddToOrder.g.cshtml.cs
+/Users/celinarabe/Desktop/Rabe_Celina_HW6/Rabe_Celina_HW6/obj/Debug/netcoreapp2.1/Razor/Views/Orders/RemoveFromOrder.g.cshtml.cs
+/Users/celinarabe/Desktop/Rabe_Celina_HW6/Rabe_Celina_HW6/bin/Debug/netcoreapp2.1/wwwroot/lib/twitter-bootstrap/js/bootstrap.js
+/Users/celinarabe/Desktop/Rabe_Celina_HW6/Rabe_Celina_HW6/bin/Debug/netcoreapp2.1/wwwroot/lib/twitter-bootstrap/css/bootstrap.css
+/Users/celinarabe/Desktop/Rabe_Celina_HW6/Rabe_Celina_HW6/bin/Debug/netcoreapp2.1/wwwroot/lib/twitter-bootstrap/css/bootstrap.min.css
+/Users/celinarabe/Desktop/Rabe_Celina_HW6/Rabe_Celina_HW6/obj/Debug/netcoreapp2.1/Razor/Views/Account/Index.g.cshtml.cs
+/Users/celinarabe/Desktop/Rabe_Celina_HW6 copy/Rabe_Celina_HW6/bin/Debug/netcoreapp2.1/wwwroot/lib/twitter-bootstrap/js/bootstrap.js
+/Users/celinarabe/Desktop/Rabe_Celina_HW6 copy/Rabe_Celina_HW6/bin/Debug/netcoreapp2.1/wwwroot/lib/twitter-bootstrap/css/bootstrap.css
+/Users/celinarabe/Desktop/Rabe_Celina_HW6 copy/Rabe_Celina_HW6/bin/Debug/netcoreapp2.1/wwwroot/lib/twitter-bootstrap/css/bootstrap.min.css
+/Users/celinarabe/Desktop/Rabe_Celina_HW6 copy/Rabe_Celina_HW6/bin/Debug/netcoreapp2.1/Rabe_Celina_HW6.deps.json
+/Users/celinarabe/Desktop/Rabe_Celina_HW6 copy/Rabe_Celina_HW6/bin/Debug/netcoreapp2.1/Rabe_Celina_HW6.runtimeconfig.json
+/Users/celinarabe/Desktop/Rabe_Celina_HW6 copy/Rabe_Celina_HW6/bin/Debug/netcoreapp2.1/Rabe_Celina_HW6.runtimeconfig.dev.json
+/Users/celinarabe/Desktop/Rabe_Celina_HW6 copy/Rabe_Celina_HW6/bin/Debug/netcoreapp2.1/Rabe_Celina_HW6.dll
+/Users/celinarabe/Desktop/Rabe_Celina_HW6 copy/Rabe_Celina_HW6/bin/Debug/netcoreapp2.1/Rabe_Celina_HW6.pdb
+/Users/celinarabe/Desktop/Rabe_Celina_HW6 copy/Rabe_Celina_HW6/bin/Debug/netcoreapp2.1/Rabe_Celina_HW6.Views.dll
+/Users/celinarabe/Desktop/Rabe_Celina_HW6 copy/Rabe_Celina_HW6/bin/Debug/netcoreapp2.1/Rabe_Celina_HW6.Views.pdb
+/Users/celinarabe/Desktop/Rabe_Celina_HW6 copy/Rabe_Celina_HW6/obj/Debug/netcoreapp2.1/Rabe_Celina_HW6.csprojAssemblyReference.cache
+/Users/celinarabe/Desktop/Rabe_Celina_HW6 copy/Rabe_Celina_HW6/obj/Debug/netcoreapp2.1/Rabe_Celina_HW6.csproj.CoreCompileInputs.cache
+/Users/celinarabe/Desktop/Rabe_Celina_HW6 copy/Rabe_Celina_HW6/obj/Debug/netcoreapp2.1/Rabe_Celina_HW6.RazorAssemblyInfo.cache
+/Users/celinarabe/Desktop/Rabe_Celina_HW6 copy/Rabe_Celina_HW6/obj/Debug/netcoreapp2.1/Rabe_Celina_HW6.RazorAssemblyInfo.cs
+/Users/celinarabe/Desktop/Rabe_Celina_HW6 copy/Rabe_Celina_HW6/obj/Debug/netcoreapp2.1/Rabe_Celina_HW6.AssemblyInfoInputs.cache
+/Users/celinarabe/Desktop/Rabe_Celina_HW6 copy/Rabe_Celina_HW6/obj/Debug/netcoreapp2.1/Rabe_Celina_HW6.AssemblyInfo.cs
+/Users/celinarabe/Desktop/Rabe_Celina_HW6 copy/Rabe_Celina_HW6/obj/Debug/netcoreapp2.1/Rabe_Celina_HW6.TagHelpers.input.cache
+/Users/celinarabe/Desktop/Rabe_Celina_HW6 copy/Rabe_Celina_HW6/obj/Debug/netcoreapp2.1/Rabe_Celina_HW6.TagHelpers.output.cache
+/Users/celinarabe/Desktop/Rabe_Celina_HW6 copy/Rabe_Celina_HW6/obj/Debug/netcoreapp2.1/Rabe_Celina_HW6.RazorCoreGenerate.cache
+/Users/celinarabe/Desktop/Rabe_Celina_HW6 copy/Rabe_Celina_HW6/obj/Debug/netcoreapp2.1/Razor/Views/Account/Index.g.cshtml.cs
+/Users/celinarabe/Desktop/Rabe_Celina_HW6 copy/Rabe_Celina_HW6/obj/Debug/netcoreapp2.1/Razor/Views/Home/Index.g.cshtml.cs
+/Users/celinarabe/Desktop/Rabe_Celina_HW6 copy/Rabe_Celina_HW6/obj/Debug/netcoreapp2.1/Razor/Views/OrderDetails/Delete.g.cshtml.cs
+/Users/celinarabe/Desktop/Rabe_Celina_HW6 copy/Rabe_Celina_HW6/obj/Debug/netcoreapp2.1/Razor/Views/OrderDetails/Edit.g.cshtml.cs
+/Users/celinarabe/Desktop/Rabe_Celina_HW6 copy/Rabe_Celina_HW6/obj/Debug/netcoreapp2.1/Razor/Views/Orders/AddToOrder.g.cshtml.cs
+/Users/celinarabe/Desktop/Rabe_Celina_HW6 copy/Rabe_Celina_HW6/obj/Debug/netcoreapp2.1/Razor/Views/Orders/Create.g.cshtml.cs
+/Users/celinarabe/Desktop/Rabe_Celina_HW6 copy/Rabe_Celina_HW6/obj/Debug/netcoreapp2.1/Razor/Views/Orders/Delete.g.cshtml.cs
+/Users/celinarabe/Desktop/Rabe_Celina_HW6 copy/Rabe_Celina_HW6/obj/Debug/netcoreapp2.1/Razor/Views/Orders/Details.g.cshtml.cs
+/Users/celinarabe/Desktop/Rabe_Celina_HW6 copy/Rabe_Celina_HW6/obj/Debug/netcoreapp2.1/Razor/Views/Orders/Edit.g.cshtml.cs
+/Users/celinarabe/Desktop/Rabe_Celina_HW6 copy/Rabe_Celina_HW6/obj/Debug/netcoreapp2.1/Razor/Views/Orders/Index.g.cshtml.cs
+/Users/celinarabe/Desktop/Rabe_Celina_HW6 copy/Rabe_Celina_HW6/obj/Debug/netcoreapp2.1/Razor/Views/Orders/RemoveFromOrder.g.cshtml.cs
+/Users/celinarabe/Desktop/Rabe_Celina_HW6 copy/Rabe_Celina_HW6/obj/Debug/netcoreapp2.1/Razor/Views/Products/Create.g.cshtml.cs
+/Users/celinarabe/Desktop/Rabe_Celina_HW6 copy/Rabe_Celina_HW6/obj/Debug/netcoreapp2.1/Razor/Views/Products/Details.g.cshtml.cs
+/Users/celinarabe/Desktop/Rabe_Celina_HW6 copy/Rabe_Celina_HW6/obj/Debug/netcoreapp2.1/Razor/Views/Products/Edit.g.cshtml.cs
+/Users/celinarabe/Desktop/Rabe_Celina_HW6 copy/Rabe_Celina_HW6/obj/Debug/netcoreapp2.1/Razor/Views/Products/Index.g.cshtml.cs
+/Users/celinarabe/Desktop/Rabe_Celina_HW6 copy/Rabe_Celina_HW6/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_Layout.g.cshtml.cs
+/Users/celinarabe/Desktop/Rabe_Celina_HW6 copy/Rabe_Celina_HW6/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_ValidationScriptsPartial.g.cshtml.cs
+/Users/celinarabe/Desktop/Rabe_Celina_HW6 copy/Rabe_Celina_HW6/obj/Debug/netcoreapp2.1/Razor/Views/Suppliers/Create.g.cshtml.cs
+/Users/celinarabe/Desktop/Rabe_Celina_HW6 copy/Rabe_Celina_HW6/obj/Debug/netcoreapp2.1/Razor/Views/Suppliers/Details.g.cshtml.cs
+/Users/celinarabe/Desktop/Rabe_Celina_HW6 copy/Rabe_Celina_HW6/obj/Debug/netcoreapp2.1/Razor/Views/Suppliers/Edit.g.cshtml.cs
+/Users/celinarabe/Desktop/Rabe_Celina_HW6 copy/Rabe_Celina_HW6/obj/Debug/netcoreapp2.1/Razor/Views/Suppliers/Index.g.cshtml.cs
+/Users/celinarabe/Desktop/Rabe_Celina_HW6 copy/Rabe_Celina_HW6/obj/Debug/netcoreapp2.1/Razor/Views/_ViewImports.g.cshtml.cs
+/Users/celinarabe/Desktop/Rabe_Celina_HW6 copy/Rabe_Celina_HW6/obj/Debug/netcoreapp2.1/Razor/Views/_ViewStart.g.cshtml.cs
+/Users/celinarabe/Desktop/Rabe_Celina_HW6 copy/Rabe_Celina_HW6/obj/Debug/netcoreapp2.1/Rabe_Celina_HW6.RazorTargetAssemblyInfo.cache
+/Users/celinarabe/Desktop/Rabe_Celina_HW6 copy/Rabe_Celina_HW6/obj/Debug/netcoreapp2.1/Rabe_Celina_HW6.RazorTargetAssemblyInfo.cs
+/Users/celinarabe/Desktop/Rabe_Celina_HW6 copy/Rabe_Celina_HW6/obj/Debug/netcoreapp2.1/Rabe_Celina_HW6.Views.pdb
+/Users/celinarabe/Desktop/Rabe_Celina_HW6 copy/Rabe_Celina_HW6/obj/Debug/netcoreapp2.1/Rabe_Celina_HW6.dll
+/Users/celinarabe/Desktop/Rabe_Celina_HW6 copy/Rabe_Celina_HW6/obj/Debug/netcoreapp2.1/Rabe_Celina_HW6.pdb
+/Users/celinarabe/Desktop/Rabe_Celina_HW6 copy/Rabe_Celina_HW6/obj/Debug/netcoreapp2.1/Rabe_Celina_HW6.csproj.CopyComplete

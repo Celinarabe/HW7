@@ -1,0 +1,119 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+ 
+  </PropertyGroup>
+    
+
+
+  <ItemGroup>
+    <Folder Include="wwwroot\" />
+    <Folder Include="Models\" />
+    <Folder Include="Views\" />
+    <Folder Include="Controllers\" />
+    <Folder Include="wwwroot\lib\" />
+    <Folder Include="wwwroot\lib\twitter-bootstrap\" />
+    <Folder Include="wwwroot\lib\jquery\" />
+    <Folder Include="wwwroot\lib\twitter-bootstrap\css\" />
+    <Folder Include="wwwroot\lib\twitter-bootstrap\js\" />
+    <Folder Include="Views\Shared\" />
+    <Folder Include="DAL\" />
+    <Folder Include="Views\Home\" />
+    <Folder Include="Utilities\" />
+    <Folder Include="Views\Account\" />
+    <Folder Include="Views\RoleAdmin\" />
+    <Folder Include="Seeding\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.App" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="2.1.6" />
+    <DotNetCliToolReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Tools" Version="2.0.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Razor.Design" Version="2.1.2" />
+    <PackageReference Include="Microsoft.AspNet.Razor" Version="1.0.20105.408" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Remove="wwwroot\lib\twitter-bootstrap\css\bootstrap-grid.css" />
+    <Content Remove="wwwroot\lib\twitter-bootstrap\css\bootstrap-grid.css.map" />
+    <Content Remove="wwwroot\lib\twitter-bootstrap\css\bootstrap-grid.min.css" />
+    <Content Remove="wwwroot\lib\twitter-bootstrap\css\bootstrap-grid.min.css.map" />
+    <Content Remove="wwwroot\lib\twitter-bootstrap\css\bootstrap-reboot.css" />
+    <Content Remove="wwwroot\lib\twitter-bootstrap\css\bootstrap-reboot.css.map" />
+    <Content Remove="wwwroot\lib\twitter-bootstrap\css\bootstrap-reboot.min.css" />
+    <Content Remove="wwwroot\lib\twitter-bootstrap\css\bootstrap-reboot.min.css.map" />
+    <Content Remove="wwwroot\lib\twitter-bootstrap\css\bootstrap.css" />
+    <Content Remove="wwwroot\lib\twitter-bootstrap\css\bootstrap.css.map" />
+    <Content Remove="wwwroot\lib\twitter-bootstrap\css\bootstrap.min.css" />
+    <Content Remove="wwwroot\lib\twitter-bootstrap\css\bootstrap.min.css.map" />
+    <Content Remove="wwwroot\lib\twitter-bootstrap\jss\bootstrap.bundle.js" />
+    <Content Remove="wwwroot\lib\twitter-bootstrap\jss\bootstrap.bundle.js.map" />
+    <Content Remove="wwwroot\lib\twitter-bootstrap\jss\bootstrap.bundle.min.js" />
+    <Content Remove="wwwroot\lib\twitter-bootstrap\jss\bootstrap.bundle.min.js.map" />
+    <Content Remove="wwwroot\lib\twitter-bootstrap\jss\bootstrap.js" />
+    <Content Remove="wwwroot\lib\twitter-bootstrap\jss\bootstrap.js.map" />
+    <Content Remove="wwwroot\lib\twitter-bootstrap\jss\bootstrap.min.js" />
+    <Content Remove="wwwroot\lib\twitter-bootstrap\jss\bootstrap.min.js.map" />
+    <Content Remove="wwwroot\lib\jquery\jquery-3.3.1.js" />
+    <Content Remove="Views\Order\Delete.cshtml" />
+    <Content Remove="Views\Product\Delete.cshtml" />
+    <Content Remove="Views\Suppliers\Delete.cshtml" />
+    <Content Remove="Views\Products\Delete.cshtml" />
+    <Content Remove="Views\OrderDetails\Index.cshtml" />
+    <Content Remove="Views\OrderDetails\Create.cshtml" />
+    <Content Remove="Views\OrderDetails\Details.cshtml" />
+    <Content Remove="Views\Account\Create.cshtml" />
+    <Content Remove="Views\Account\Edit.cshtml" />
+    <Content Remove="Views\RoleAdmin\Create.cshtml" />
+    <Content Remove="Views\RoleAdmin\Edit.cshtml" />
+    <Content Remove="Views\RoleAdmin\Index.cshtml" />
+    <Content Remove="Views\Account\ChangePassword.cshtml" />
+    <Content Remove="Views\Account\Login.cshtml" />
+    <Content Remove="Views\Account\Register.cshtml" />
+    <Content Remove="Views\Shared\_LoginPartial.cshtml" />
+    <Content Remove="Views\Shared\Error.cshtml" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="wwwroot\lib\twitter-bootstrap\css\bootstrap-grid.css" />
+    <None Include="wwwroot\lib\twitter-bootstrap\css\bootstrap-grid.css.map" />
+    <None Include="wwwroot\lib\twitter-bootstrap\css\bootstrap-grid.min.css" />
+    <None Include="wwwroot\lib\twitter-bootstrap\css\bootstrap-grid.min.css.map" />
+    <None Include="wwwroot\lib\twitter-bootstrap\css\bootstrap-reboot.css" />
+    <None Include="wwwroot\lib\twitter-bootstrap\css\bootstrap-reboot.css.map" />
+    <None Include="wwwroot\lib\twitter-bootstrap\css\bootstrap-reboot.min.css" />
+    <None Include="wwwroot\lib\twitter-bootstrap\css\bootstrap-reboot.min.css.map" />
+    <None Include="wwwroot\lib\twitter-bootstrap\css\bootstrap.css">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="wwwroot\lib\twitter-bootstrap\css\bootstrap.css.map" />
+    <None Include="wwwroot\lib\twitter-bootstrap\css\bootstrap.min.css">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="wwwroot\lib\twitter-bootstrap\css\bootstrap.min.css.map" />
+    <None Include="wwwroot\lib\twitter-bootstrap\js\bootstrap.bundle.js" />
+    <None Include="wwwroot\lib\twitter-bootstrap\js\bootstrap.bundle.js.map" />
+    <None Include="wwwroot\lib\twitter-bootstrap\js\bootstrap.bundle.min.js" />
+    <None Include="wwwroot\lib\twitter-bootstrap\js\bootstrap.bundle.min.js.map" />
+    <None Include="wwwroot\lib\twitter-bootstrap\js\bootstrap.js">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="wwwroot\lib\twitter-bootstrap\js\bootstrap.js.map" />
+    <None Include="wwwroot\lib\twitter-bootstrap\js\bootstrap.min.js" />
+    <None Include="wwwroot\lib\twitter-bootstrap\js\bootstrap.min.js.map" />
+    <None Include="wwwroot\lib\jquery\jquery-3.3.1.js" />
+    <None Include="Views\RoleAdmin\Create.cshtml" />
+    <None Include="Views\RoleAdmin\Edit.cshtml" />
+    <None Include="Views\RoleAdmin\Index.cshtml" />
+    <None Include="Views\Account\ChangePassword.cshtml" />
+    <None Include="Views\Account\Login.cshtml" />
+    <None Include="Views\Account\Register.cshtml" />
+    <None Include="Views\Shared\_LoginPartial.cshtml" />
+    <None Include="Views\Shared\Error.cshtml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Update="wwwroot\lib\twitter-bootstrap\js\bootstrap.js">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+</Project>
